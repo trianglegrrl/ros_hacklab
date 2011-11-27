@@ -1,0 +1,14 @@
+<package>
+  <description brief="train_overlord_controller">
+
+     train_overlord_controller
+
+  </description>
+  <author>Alaina Hardie</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/train_overlord_controller</url>
+
+</package>
+
+
